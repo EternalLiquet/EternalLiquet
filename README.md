@@ -17,9 +17,9 @@ Hello, welcome to my Github
 
 <br/>
 <h1></h1>
-<h2 align="center">
+<h3 align="center">
     Statistics
-</h2>
+</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalliquet&layout=compact&theme=radical" alt="stats"/>
 </div>
