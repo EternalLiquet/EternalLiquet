@@ -9,7 +9,7 @@ Hello, welcome to my Github
 <br/>
 <h1></h1>
 <h3 align="center">
-    Visitors since 10/18/2023
+    Visitors since 09/27/2025
 </h3>
 <div align="center">
 <img src="https://profile-counter.deno.dev/eternalliquet/count.svg" alt="EternalLiquet's Visitor Count" />
