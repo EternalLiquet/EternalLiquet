@@ -30,6 +30,11 @@ Hello, welcome to my Github
 
 <h4 align="center">Thanks for stopping by~</h4>
 
+<hr/>
+
+<h2 align="center">Now Playing</h2>
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=124628207&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=124628207&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=124628207&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=124628207&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify"/>
+  </a>
 </div>
