@@ -2,7 +2,7 @@
 Hello, welcome to my Github
 
 </h1>
-<hr />
+<br />
 <h3 align="center">
   My name is Liquet. This GitHub is just a space where I post whatever I feel like, usually small projects and experiments.  
   I also like cars and anime.
