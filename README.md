@@ -12,7 +12,7 @@ Hello, welcome to my Github
     Visitors since 10/18/2023
 </h3>
 <div align="center">
-<img src="https://profile-counter.glitch.me/{eternalliquet}/count.svg" alt="eternalliquet :: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/eternalliquet/count.svg" alt="EternalLiquet's Visitor Count" />
 </div>
 
 <br/>
