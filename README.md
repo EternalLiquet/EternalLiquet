@@ -22,6 +22,7 @@ Hello, welcome to my Github
 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalliquet&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eternalliquet&show_icons=true&theme=transparent" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=eternalliquet&count_private=true&show_icons=true&theme=radical" height="150"/>
 </div>
 
