@@ -24,10 +24,8 @@ Hello, welcome to my Github
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalliquet&layout=compact&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=eternalliquet&show_icons=true&theme=transparent" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=eternalliquet&count_private=true&show_icons=true&theme=radical" height="150"/>
-</div> -->
-
-<hr />
-
+</div>
+-->
 <h4 align="center">Now Playing</h4>
 <br />
 <div align="center">
