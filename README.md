@@ -1,12 +1,12 @@
 <h1 align="center">
-Hello, welcome to my Github
+Hello, welcome!
 
 </h1>
 <br />
 <h3 align="center">
-  My name is Liquet. This GitHub is just a space where I post whatever I feel like, usually small projects and experiments.  
-  I also like cars and anime.
+  My name is Liquet. (More of an online alias really.)
 </h3>
+I'm a senior software engineer with 8 years of professional experience. I've been programming since I was around 14. This Github is just a space for me to store personal projects, whatever I feel like posting. I really like cars, anime, and photography.. among many other hobbies.
 
 <h3 align="center">
     Visitors since 09/27/2025
